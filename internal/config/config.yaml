@@ -1,0 +1,11 @@
+# Этот файл может использоваться для более сложной конфигурации в будущем.
+# database:
+#   host: localhost
+#   port: 5432
+#   user: user
+#   password: password
+#   dbname: buhpro_db
+# jwt:
+#   secret: your_jwt_secret_key
+# server:
+#   port: 8080
